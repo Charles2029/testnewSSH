@@ -18,4 +18,5 @@ It's a program that runs in the background and keeps your key loaded into memory
  
  ## [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
  Generating a new SSH key and adding it to the ssh-agent
- 
+
+When you  *generate an SSH key, you can add a passphrase* to further secure the key. Whenever you use the key, you must enter the passphrase. If your key has a passphrase and you don't want to enter the passphrase everytime you use the key, you can add your key to the SSH agent. The SSH agent manages your SSH keys and remembers your passphrase.
