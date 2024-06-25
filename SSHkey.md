@@ -20,3 +20,34 @@ It's a program that runs in the background and keeps your key loaded into memory
  Generating a new SSH key and adding it to the ssh-agent
 
 When you  *generate an SSH key, you can add a passphrase* to further secure the key. Whenever you use the key, you must enter the passphrase. If your key has a passphrase and you don't want to enter the passphrase everytime you use the key, you can add your key to the SSH agent. The SSH agent manages your SSH keys and remembers your passphrase.
+<img width="811" alt="image" src="https://github.com/Charles2029/testnewSSH/assets/111632432/e55fed77-af14-43a9-91f0-99ae218bc31b">
+## Generating a new SSH key and adding it to the ssh-agent
+Generating a new SSH key and adding it to the ssh-agent
+After you've checked for existing SSH keys, you can generate a new SSH key to use for authentication, then add it to the ssh-agent.
+After you've checked for existing SSH keys, you can generate a new SSH key to use for authentication, then add it to the ssh-agent.
+
+
+## The process of generate the SSH Key
+
+
+After you generate an [SSH key pair,](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) you must add the public key to GitHub.com to enable SSH access for your account.
+👍 After you generate an SSH key pair, you must **add the public key** to GitHub.com to enable SSH access for you account.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
